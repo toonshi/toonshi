@@ -10,9 +10,9 @@
 - I’m currently working on **Mshamba**
 - I’m currently learning **System Design, Rust,De AI & Blockchain**
 
-- I’m looking to collaborate on **Rust projects**
 
-- I regularly write articles on [https://medium.com/@cartoonshi](https://medium.com/@agoyamike)
+
+- Articles on [https://medium.com/@cartoonshi](https://medium.com/@agoyamike)
 
 
 - How to reach me **agoyamike@gmail.com**
