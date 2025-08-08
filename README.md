@@ -27,10 +27,5 @@
 </p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=toonshi&show_icons=true&locale=en" alt="toonshi" /></p>
-<div style="display: flex; justify-content: left; align-items: left; gap: 100px;">
-   <img src="https://api.githubtrends.io/user/svg/toonshi/langs?time_range=one_year&theme=dark" alt="Gift's LangStat"/>
-   <img src="https://api.githubtrends.io/user/svg/toonshi/repos?time_range=one_year&group=other&theme=dark"/>
-   
 </div>
 
