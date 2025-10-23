@@ -12,7 +12,7 @@
 
 
 
-- Articles on [https://medium.com/@cartoonshi](https://medium.com/@agoyamike)
+- Articles on [https://medium.com/@cartoonshi](https://mikeblogs.onrender.com)
 
 
 - How to reach me **agoyamike@gmail.com**
