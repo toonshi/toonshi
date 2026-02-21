@@ -1,6 +1,6 @@
 <h1 align="center">Hi there👋, I'm Mike</h1>
 
-<h3 align="center"> Python Developer | tfn| Learning Rust and Blockchain</h3>
+<h3 align="center"> Python | Typescript | Rust | Kotlin </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=toonshi&label=Profile%20views&color=0e75b6&style=flat" alt="dancan254" /> </p>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
