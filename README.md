@@ -7,8 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/MichaelAgoya" target="blank"><img src="https://img.shields.io/twitter/follow/Michaelagoya?logo=twitter&style=for-the-badge" alt="Michaelagoya" /></a> </p>
 
-- I’m currently working on **Mshamba**
-- I’m currently learning **System Design, Rust,De AI & Blockchain**
+- I’m currently working on **Bounti**
+- I’m currently learning **Android Development, Next JS, and UI-UX Design**
 
 
 
