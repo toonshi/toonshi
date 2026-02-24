@@ -50,12 +50,6 @@
 | [**Pharmiliar**](https://github.com/toonshi/Pharmiliar) | Django app using Google APIs to auto-populate fields, display maps and routes for pharmacy waypoints | ⭐ 2 | Python, Django |
 | [**Twinvest**](https://github.com/toonshi/twinvest) | Decentralized investment platform built on the Internet Computer | — | JavaScript, Motoko |
 
-<h3 align="left">📊 GitHub Stats:</h3>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=toonshi&show_icons=true&theme=tokyonight" alt="toonshi's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toonshi&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
 
 </div>
 
