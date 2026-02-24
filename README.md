@@ -26,6 +26,33 @@
 
 </p>
 
+<h3 align="left">🛠️ Skills & Technologies:</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
+<h3 align="left">🚀 Featured Projects:</h3>
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| [**Bounti**](https://github.com/toonshi/bounti) | Currently working on — a bounty/rewards platform | Python, TypeScript |
+| [**Mike's Blog**](https://mikeblogs.onrender.com) | Personal blog site with tech articles and tutorials | Python, Render |
+
+<h3 align="left">📊 GitHub Stats:</h3>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=toonshi&show_icons=true&theme=tokyonight" alt="toonshi's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toonshi&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
 
 </div>
 
