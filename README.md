@@ -32,20 +32,23 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Motoko-29ABE2?style=for-the-badge&logo=dfinity&logoColor=white" alt="Motoko" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
 <h3 align="left">🚀 Featured Projects:</h3>
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| [**Bounti**](https://github.com/toonshi/bounti) | Currently working on — a bounty/rewards platform | Python, TypeScript |
-| [**Mike's Blog**](https://mikeblogs.onrender.com) | Personal blog site with tech articles and tutorials | Python, Render |
+| Project | Description | Stars | Tech |
+|---------|-------------|-------|------|
+| [**Mshamba**](https://github.com/toonshi/mshamba) | Agricultural equity tokenization — the NASDAQ for Kenyan farms. Live on ICP mainnet. | ⭐ 4 | JavaScript, Motoko, Rust, Python |
+| [**Rebot**](https://github.com/toonshi/rebot) | Low-code AI orchestration platform with drag-and-drop builder, multi-agent workflows, and RAG-powered knowledge base | ⭐ 1 | JavaScript |
+| [**BrightSteps**](https://github.com/toonshi/ragsteps) | AI-powered child development platform for Down syndrome, built in partnership with DSSK | ⭐ 1 | Python, Streamlit, OpenAI |
+| [**Pharmiliar**](https://github.com/toonshi/Pharmiliar) | Django app using Google APIs to auto-populate fields, display maps and routes for pharmacy waypoints | ⭐ 2 | Python, Django |
+| [**Twinvest**](https://github.com/toonshi/twinvest) | Decentralized investment platform built on the Internet Computer | — | JavaScript, Motoko |
 
 <h3 align="left">📊 GitHub Stats:</h3>
 <p align="left">
