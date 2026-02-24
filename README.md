@@ -25,7 +25,7 @@
 <a href="https://linkedin.com/in/mikeagoya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mikeagoya/" height="30" width="40" /></a>
 
 </p>
-
+<br>
 <h3 align="left">🛠️ Skills & Technologies:</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
